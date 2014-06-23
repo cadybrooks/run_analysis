@@ -14,3 +14,10 @@ The script run_analysis.R
 
 To run run_analysis.R, download and extract the following dataset your working directory and run_analysis
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+Tidy data set contains the following columns:
+1. Activty - description of the activity being performed
+2. Participant identifier (1-3)
+3. Columns 3-63 averages of the mean and stadard deviation measurements
+taken by the accelerometer and gyroscopes of a samsung device. Time values are prefixed with T and 
+frequency readings are prefixed with an F.
